@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* #0367A6 AZUL ESCURO FOSCO */
+/* #0511F2 AZUL CLARO BRILHANTE */
+/* #737373 CINZA */
+/* #F2F2F2 GELO */
+/* #0D0D0D PRETO */
+body {
+    background-color: #F2F2F2;
+}
+
+form {
+    background-color: #0367A6;
+    width: 350px;
+    height: 400px;
+    border-radius: 10px;
+    padding: 15px;
+    margin: auto;
+    box-shadow: none;
+}
+
+form>input {
+    margin: 15px;
+    border-radius: 5px;
+    height: 25px;
+    box-shadow: none;
+}
+
+#button {
+    width: 200px;
+    text-align: left;
+    box-shadow: none;
+}
