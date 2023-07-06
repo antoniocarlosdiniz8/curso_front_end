@@ -1,5 +1,26 @@
 @charset "UTF-8";
 
-#0065B7 header {
+header {
     background: image(#0065B7, #1995B1);
+}
+
+main {
+    background-color: #1995B1;
+    width: 500px;
+    padding: 20px;
+}
+
+.mail {
+    width: 200px;
+    height: 50px;
+    border: none;
+    border-radius: 8px;
+}
+
+#btn {
+    margin: 10px;
+    width: 150px;
+    height: 80px;
+    border: none;
+    border-radius: 10px;
 }
