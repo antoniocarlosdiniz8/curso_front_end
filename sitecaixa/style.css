@@ -10,6 +10,14 @@ main {
     padding: 20px;
 }
 
+form {
+    background-color: darkmagenta;
+    padding: 10px;
+    border-radius: 8px;
+    width: 300px;
+    margin: auto;
+}
+
 .mail {
     width: 200px;
     height: 50px;
