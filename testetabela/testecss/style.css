@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+    font-size: 20px;
+}
+
+h1 {
+    color: green;
+}
+
+.texto {
+    color: brown;
+}
+
+#texto2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
